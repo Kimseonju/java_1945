@@ -1,5 +1,5 @@
 # java_1945
-KeyLister, JPanel과 Graphics2D, 상속 등을 사용헀습니다.
+KeyLister, JPanel과 Graphics2D, 상속 등을 사용 헀습니다 (학교과제)
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/29810402/88512828-249dac80-d022-11ea-9389-75e702dc5663.png">
